@@ -1,0 +1,10 @@
+{
+    "description": "Extension to assist developers in tasks automation",
+    "name": "Developer Assistant",
+    "shell-version": [
+        "3.38.5"
+    ],
+    "url": "https://github.com/wr46/gnome-shell-extension-dev-assistant",
+    "uuid": "dev-assistant@wr46.github.com",
+    "version": 0.1
+}
